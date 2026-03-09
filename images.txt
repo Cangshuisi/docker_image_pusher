@@ -3,6 +3,7 @@ nginx:latest
 python:alpine3.19
 mysql:8.0
 redis:7
+nacos:2.1.0
 
 # k8s 官方镜像
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
